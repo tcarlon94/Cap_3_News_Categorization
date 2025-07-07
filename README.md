@@ -1,1 +1,1 @@
-# Cap_3_News_Categorizatipn
+# Cap_3_News_Categorization
