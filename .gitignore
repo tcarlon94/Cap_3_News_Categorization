@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+.venv/
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Editor / system files
+*.swp
+*.swo
+Thumbs.db
+
+# Optional: ignore local dataset caches or export files
+# data/raw/
+# data/processed/
